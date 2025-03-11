@@ -14,7 +14,6 @@
 ## Prerequisites
 
 - Python (version 3.6+ recommended)
-- MySQL
 - pip
 - Virtual environment
 
