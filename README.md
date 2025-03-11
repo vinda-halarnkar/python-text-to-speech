@@ -42,9 +42,9 @@ pip install -r requirements.txt
 
 # Setup environment variables
 ```bash
-AWS_AK=
-AWS_SAK=
-SECRET_KEY=IqOakHHdbiu98dnhjflz4a9kdg0ae4zwurBejbZo8MOi
+AWS_AK=your-aws-access-key
+AWS_SAK=your-aws-secret-key
+SECRET_KEY=your-flask-secret-key
 
 DOWNLOAD_FOLDER=app/static/downloads
 UPLOAD_FOLDER=app/static/uploads
